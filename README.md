@@ -67,3 +67,14 @@ def parrot_trouble(talking, hour):
   return asnwer
 
 <a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_05.ipynb'>solution</a>
+
+
+<h3> Exercise 6: Return Sum </h3>
+
+Given 2 ints, a and b, return True if one if them is 10 or if their sum is 10.
+
+
+makes10(9, 10) → True <br>
+makes10(9, 9) → False <br>
+makes10(1, 9) → True
+<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_06.ipynb'>solution</a>
