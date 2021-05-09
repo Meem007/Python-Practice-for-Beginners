@@ -149,4 +149,5 @@ Given a string, we'll say that the front is the first 3 chars of the string. If 
 front3('Java') → 'JavJavJav' <br>
 front3('Chocolate') → 'ChoChoCho'<br>
 front3('abc') → 'abcabcabc'
+
 <a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_12.ipynb'>solution</a>
