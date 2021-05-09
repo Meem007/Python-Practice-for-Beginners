@@ -126,3 +126,24 @@ missing_char('kitten', 0) → 'itten'
 missing_char('kitten', 4) → 'kittn'
 
 <a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_10.ipynb'>solution</a>
+
+
+<h3> Exercise 11: Front Back String </h3>
+
+Given a string, return a new string where the first and last chars have been exchanged.
+
+front_back('code') → 'eodc' <br>
+front_back('a') → 'a' <br>
+front_back('ab') → 'ba'
+
+<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_11.ipynb'>solution</a>
+
+<h3> Exercise 12: Front String </h3>
+
+Given a string, we'll say that the front is the first 3 chars of the string. If the string length is less than 3, the front is whatever is there. Return a new string which is 3 copies of the front.
+
+
+front3('Java') → 'JavJavJav' <br>
+front3('Chocolate') → 'ChoChoCho'<br>
+front3('abc') → 'abcabcabc'
+<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_12.ipynb'>solution</a>
