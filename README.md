@@ -79,3 +79,15 @@ makes10(9, 9) → False <br>
 makes10(1, 9) → True
 
 <a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_06.ipynb'>solution</a>
+
+
+<h3> Exercise 7: Absolute Hundred </h3>
+
+Given an int n, return True if it is within 10 of 100 or 200. Note: abs(num) computes the absolute value of a number.
+
+
+near_hundred(93) → True
+near_hundred(90) → True
+near_hundred(89) → False
+
+<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_07.ipynb'>solution</a>
