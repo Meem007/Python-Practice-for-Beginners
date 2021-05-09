@@ -28,7 +28,7 @@ monkey_trouble(True, False) → False
 
 <h3> Exercise: 3</h3>
 
-Given two int values, return their sum. Unless the two values are the same, then return double their sum.
+Given two int values, return their sum. If the two values are the same, then return double their sum.
 
 
 sum_double(1, 2) → 3
@@ -36,3 +36,16 @@ sum_double(3, 2) → 5
 sum_double(2, 2) → 8
 
 <a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_03.ipynb'>solution</a>
+
+
+<h3> Exercise: 4</h3>
+
+
+Given an int n, return the absolute difference between n and 21, except return double the absolute difference if n is over 21.
+
+
+diff21(19) → 2
+diff21(10) → 11
+diff21(21) → 0
+
+<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_04.ipynb'>solution</a>
