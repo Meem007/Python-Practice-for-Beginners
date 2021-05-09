@@ -22,3 +22,5 @@ We have two monkeys, a and b, and the parameters a_smile and b_smile indicate if
 monkey_trouble(True, True) → True
 monkey_trouble(False, False) → True
 monkey_trouble(True, False) → False
+
+<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_02.ipynb'>solution</a>
