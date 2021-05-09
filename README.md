@@ -116,7 +116,7 @@ not_string('not bad') → 'not bad'
 <a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_09.ipynb'>solution</a>
 
 
-<h3> Exercise 10: Non Empty String </h3>
+<h3> Exercise 10: Missing Character </h3>
 
 Given a non-empty string and an int n, return a new string where the char at index n has been removed. The value of n will be a valid index of a char in the original string (i.e. n will be in the range 0..len(str)-1 inclusive).
 
