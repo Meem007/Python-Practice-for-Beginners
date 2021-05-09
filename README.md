@@ -8,7 +8,7 @@ The parameter weekday is true if it is a weekday, and the parameter vacation is 
 
 sleep_in(false, false) → true <br>
 sleep_in(true, false) → false <br>
-sleep_in(false, true) → true 
+sleep_n(false, true) → true 
 
 <a href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_01.ipynb'>solution</a>
 
