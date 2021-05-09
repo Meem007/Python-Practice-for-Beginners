@@ -86,8 +86,8 @@ makes10(1, 9) → True
 Given an int n, return True if it is within 10 of 100 or 200. Note: abs(num) computes the absolute value of a number.
 
 
-near_hundred(93) → True
-near_hundred(90) → True
-near_hundred(89) → False
+near_hundred(93) → True <br>
+near_hundred(90) → True <br>
+near_hundred(89) → False 
 
 <a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_07.ipynb'>solution</a>
