@@ -24,3 +24,4 @@ monkey_trouble(False, False) → True
 monkey_trouble(True, False) → False
 
 <a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_02.ipynb'>solution</a>
+<a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a>
