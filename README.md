@@ -2,7 +2,7 @@
 Basically this project help to learn python program for newcomer. Python program uses in myriad field such as- developing complex scientific numeric and web applications, data analysis and visualization. 
 
 
-<h2 style="color: red;"> Warmup-1 </h2>
+<h2 style="color: blue;"> Warmup-1 </h2>
 
 <h3> Exercise 1: Sleep </h3> 
 
