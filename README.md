@@ -49,3 +49,14 @@ diff21(10) → 11
 diff21(21) → 0
 
 <a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_04.ipynb'>solution</a>
+
+
+<h3> Exercise 5: Parrot Trouble</h3>
+
+We have a loud talking parrot. The "hour" parameter is the current hour time in the range 0..23. We are in trouble if the parrot is talking and the hour is before 7 or after 20. Return True if we are in trouble.
+
+parrot_trouble(True, 6) → True
+parrot_trouble(True, 7) → False
+parrot_trouble(False, 6) → False
+
+<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_05.ipynb'>solution</a>
