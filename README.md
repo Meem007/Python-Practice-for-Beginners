@@ -59,4 +59,11 @@ parrot_trouble(True, 6) → True
 parrot_trouble(True, 7) → False
 parrot_trouble(False, 6) → False
 
+
+def parrot_trouble(talking, hour):
+  
+  
+
+  return asnwer
+
 <a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_05.ipynb'>solution</a>
