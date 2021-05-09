@@ -11,3 +11,7 @@ sleepIn(true, false) → false
 sleepIn(false, true) → true
 
 <a href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_01.ipynb'>solution</a>
+
+
+
+<h3>First Exercise: 1</h3> 
