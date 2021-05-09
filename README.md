@@ -6,9 +6,9 @@ Basically this project help to learn python program for newcomer. Python program
 The parameter weekday is true if it is a weekday, and the parameter vacation is true if we are on vacation. We sleep in if it is not a weekday or we're on vacation. Return true if we sleep in.
 
 
-sleepIn(false, false) → true <br>
-sleepIn(true, false) → false <br>
-sleepIn(false, true) → true 
+sleep_in(false, false) → true <br>
+sleep_in(true, false) → false <br>
+sleep_in(false, true) → true 
 
 <a href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_01.ipynb'>solution</a>
 
@@ -31,9 +31,9 @@ monkey_trouble(True, False) → False
 Given two int values, return their sum. If the two values are the same, then return double their sum.
 
 
-sum_double(1, 2) → 3
-sum_double(3, 2) → 5
-sum_double(2, 2) → 8
+sum_double(1, 2) → 3 <br>
+sum_double(3, 2) → 5 <br>
+sum_double(2, 2) → 8 
 
 <a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_03.ipynb'>solution</a>
 
@@ -44,8 +44,8 @@ sum_double(2, 2) → 8
 Given an int n, return the absolute difference between n and 21, except return double the absolute difference if n is over 21.
 
 
-diff21(19) → 2
-diff21(10) → 11
+diff21(19) → 2 <br>
+diff21(10) → 11 <br>
 diff21(21) → 0
 
 <a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_04.ipynb'>solution</a>
@@ -55,8 +55,8 @@ diff21(21) → 0
 
 We have a loud talking parrot. The "hour" parameter is the current hour time in the range 0..23. We are in trouble if the parrot is talking and the hour is before 7 or after 20. Return True if we are in trouble.
 
-parrot_trouble(True, 6) → True
-parrot_trouble(True, 7) → False
+parrot_trouble(True, 6) → True <br>
+parrot_trouble(True, 7) → False <br>
 parrot_trouble(False, 6) → False
 
 
