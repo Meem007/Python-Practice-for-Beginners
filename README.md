@@ -102,3 +102,15 @@ pos_neg(-1, 1, False) → True <br>
 pos_neg(-4, -5, True) → True
 
 <a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_08.ipynb'>solution</a>
+
+
+<h3> Exercise 9: Not String </h3>
+
+Given a string, return a new string where "not " has been added to the front. However, if the string already begins with "not", return the string unchanged.
+
+
+not_string('candy') → 'not candy' <br>
+not_string('x') → 'not x' <br>
+not_string('not bad') → 'not bad'
+
+<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_09.ipynb'>solution</a>
