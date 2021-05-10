@@ -2,7 +2,10 @@
 Basically this project help to learn python program for newcomer. Python program uses in myriad field such as- developing complex scientific numeric and web applications, data analysis and visualization. 
 
 
-<h2 style="color: blue;"> Warmup-1 </h2>
+<h2 id="index"> Warmup-1 <a href="#warmup_2">Warmup-2</a>  <a href="#string_1">String-1</a> </h2>
+
+<hr>
+<h2> Warmup-1</h2>
 
 <h3> Exercise 1: Sleep </h3> 
 
@@ -151,5 +154,20 @@ front3('Chocolate') → 'ChoChoCho'<br>
 front3('abc') → 'abcabcabc'
 
 <a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/solutions/Exercise_N_12.ipynb'>solution</a>
+
+<hr>
+
+<h2 id="warmup_2"> Warmup-2</h2>
+
+
+<a href="#index">Back to Index</a>
+
+
+<hr>
+
+<h2 id="string_1"> String-1</h2>
+
+
+<a href="#index">Back to Index</a>
 
 <hr>
