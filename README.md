@@ -13,7 +13,7 @@ sleep_in(false, false) → true <br>
 sleep_in(true, false) → false <br>
 sleep_n(false, true) → true 
 
-<a href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_01.ipynb'>solution</a>
+<a href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/solutions/Exercise_N_01.ipynb'>solution</a>
 
 
 
@@ -26,7 +26,7 @@ monkey_trouble(True, True) → True <br>
 monkey_trouble(False, False) → True <br>
 monkey_trouble(True, False) → False
 
-<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_02.ipynb'>solution</a>
+<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/solutions/Exercise_N_02.ipynb'>solution</a>
 
 
 <h3> Exercise 3: Sum Double </h3>
@@ -38,7 +38,7 @@ sum_double(1, 2) → 3 <br>
 sum_double(3, 2) → 5 <br>
 sum_double(2, 2) → 8 
 
-<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_03.ipynb'>solution</a>
+<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/solutions/Exercise_N_03.ipynb'>solution</a>
 
 
 <h3> Exercise 4: Absolute Difference</h3>
@@ -51,7 +51,7 @@ diff21(19) → 2 <br>
 diff21(10) → 11 <br>
 diff21(21) → 0
 
-<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_04.ipynb'>solution</a>
+<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/solutions/Exercise_N_04.ipynb'>solution</a>
 
 
 <h3> Exercise 5: Parrot Trouble</h3>
@@ -69,7 +69,7 @@ def parrot_trouble(talking, hour):
 
   return asnwer
 
-<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_05.ipynb'>solution</a>
+<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/solutions/Exercise_N_05.ipynb'>solution</a>
 
 
 <h3> Exercise 6: Return Sum </h3>
@@ -81,7 +81,7 @@ makes10(9, 10) → True <br>
 makes10(9, 9) → False <br>
 makes10(1, 9) → True
 
-<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_06.ipynb'>solution</a>
+<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/solutions/Exercise_N_06.ipynb'>solution</a>
 
 
 <h3> Exercise 7: Absolute Hundred </h3>
@@ -93,7 +93,7 @@ near_hundred(93) → True <br>
 near_hundred(90) → True <br>
 near_hundred(89) → False 
 
-<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_07.ipynb'>solution</a>
+<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/solutions/Exercise_N_07.ipynb'>solution</a>
 
 <h3> Exercise 8: Positive Negative </h3>
 
@@ -104,7 +104,7 @@ pos_neg(1, -1, False) → True <br>
 pos_neg(-1, 1, False) → True <br>
 pos_neg(-4, -5, True) → True
 
-<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_08.ipynb'>solution</a>
+<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/solutions/Exercise_N_08.ipynb'>solution</a>
 
 
 <h3> Exercise 9: Not String </h3>
@@ -116,7 +116,7 @@ not_string('candy') → 'not candy' <br>
 not_string('x') → 'not x' <br>
 not_string('not bad') → 'not bad'
 
-<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_09.ipynb'>solution</a>
+<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/solutions/Exercise_N_09.ipynb'>solution</a>
 
 
 <h3> Exercise 10: Missing Character </h3>
@@ -128,7 +128,7 @@ missing_char('kitten', 1) → 'ktten'
 missing_char('kitten', 0) → 'itten'
 missing_char('kitten', 4) → 'kittn'
 
-<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_10.ipynb'>solution</a>
+<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/solutions/Exercise_N_10.ipynb'>solution</a>
 
 
 <h3> Exercise 11: Front Back String </h3>
@@ -139,7 +139,7 @@ front_back('code') → 'eodc' <br>
 front_back('a') → 'a' <br>
 front_back('ab') → 'ba'
 
-<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_11.ipynb'>solution</a>
+<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/solutions/Exercise_N_11.ipynb'>solution</a>
 
 <h3> Exercise 12: Front String </h3>
 
@@ -150,4 +150,6 @@ front3('Java') → 'JavJavJav' <br>
 front3('Chocolate') → 'ChoChoCho'<br>
 front3('abc') → 'abcabcabc'
 
-<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/Exercise_N_12.ipynb'>solution</a>
+<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/solutions/Exercise_N_12.ipynb'>solution</a>
+
+<hr>
