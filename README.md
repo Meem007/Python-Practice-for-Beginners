@@ -2,7 +2,7 @@
 Basically this project help to learn python program for newcomer. Python program uses in myriad field such as- developing complex scientific numeric and web applications, data analysis and visualization. 
 
 
-<h2 id="index"> Warmup-1 > | <a href="#warmup_2">Warmup-2</a> | <a href="#string_1">String-1</a> </h2>
+<h2 id="index"> Warmup-1  | <a href="#warmup_2">Warmup-2</a> | <a href="#string_1">String-1</a> </h2>
 
 <hr>
 <h2> Warmup-1</h2>
