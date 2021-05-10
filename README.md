@@ -159,11 +159,22 @@ front3('abc') → 'abcabcabc'
 
 <h2 id="warmup_2"> Warmup-2</h2>
 
+<h3> Exercise 13: String Times </h3>
+
+
+Given a string and a non-negative int n, return a larger string that is n copies of the original string.
+
+
+`stringTimes("Hi", 2) → "HiHi"
+stringTimes("Hi", 3) → "HiHiHi"
+stringTimes("Hi", 1) → "Hi"`
+
+<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/solutions/Exercise_N_13.ipynb'>solution</a>
 
 <a href="#index">Back to Index</a>
-
-
 <hr>
+
+
 
 <h2 id="string_1"> String-1</h2>
 
