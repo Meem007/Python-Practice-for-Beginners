@@ -235,7 +235,16 @@ array_front9([1, 2, 3, 4, 5]) → False
 
 <a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/solutions/Exercise_N_19.ipynb'>solution</a>
 
+<h3> Exercise 20: Array Number</h3>
 
+Given an array of ints, return True if the sequence of numbers 1, 2, 3 appears in the array somewhere.
+
+
+array123([1, 1, 2, 3, 1]) → True<br>
+array123([1, 1, 2, 4, 1]) → False<br>
+array123([1, 1, 2, 1, 2, 3]) → True
+
+<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/solutions/Exercise_N_20.ipynb'>solution</a>
 
 <a href="#index">Back to Index</a>
 <hr>
