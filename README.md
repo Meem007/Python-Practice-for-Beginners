@@ -214,6 +214,17 @@ last2('axxxaaxx') → 2
 
 <a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/solutions/Exercise_N_17.ipynb'>solution</a>
 
+<h3> Exercise 18: Array Counting</h3>
+
+Given an array of ints, return the number of 9's in the array.
+
+array_count9([1, 2, 9]) → 1<br>
+array_count9([1, 9, 9]) → 2<br>
+array_count9([1, 9, 9, 3, 9]) → 3
+
+<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/solutions/Exercise_N_18.ipynb'>solution</a>
+
+
 <a href="#index">Back to Index</a>
 <hr>
 
