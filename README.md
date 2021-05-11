@@ -183,6 +183,16 @@ front_times('Abc', 3) → 'AbcAbcAbc'
 
 <a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/solutions/Exercise_N_14.ipynb'>solution</a>
 
+<h3> Exercise 15: String Bits</h3>
+
+Given a string, return a new string made of every other char starting with the first, so "Hello" yields "Hlo".
+
+string_bits('Hello') → 'Hlo'<br>
+string_bits('Hi') → 'H' <br>
+string_bits('Heeololeo') → 'Hello'
+
+<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/solutions/Exercise_N_15.ipynb'>solution</a>
+
 
 <a href="#index">Back to Index</a>
 <hr>
