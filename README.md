@@ -193,6 +193,16 @@ string_bits('Heeololeo') → 'Hello'
 
 <a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/solutions/Exercise_N_15.ipynb'>solution</a>
 
+<h3> Exercise 15: String Splosion</h3>
+
+Given a non-empty string like "Code" return a string like "CCoCodCode".
+
+string_splosion('Code') → 'CCoCodCode'<br>
+string_splosion('abc') → 'aababc'<br>
+string_splosion('ab') → 'aab'
+
+<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/solutions/Exercise_N_15.ipynb'>solution</a>
+
 
 <a href="#index">Back to Index</a>
 <hr>
