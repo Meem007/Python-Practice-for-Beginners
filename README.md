@@ -224,6 +224,18 @@ array_count9([1, 9, 9, 3, 9]) → 3
 
 <a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/solutions/Exercise_N_18.ipynb'>solution</a>
 
+<h3> Exercise 19: Array Length</h3>
+
+Given an array of ints, return True if one of the first 4 elements in the array is a 9. The array length may be less than 4.
+
+
+array_front9([1, 2, 9, 3, 4]) → True<br>
+array_front9([1, 2, 3, 4, 9]) → False<br>
+array_front9([1, 2, 3, 4, 5]) → False
+
+<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/solutions/Exercise_N_19.ipynb'>solution</a>
+
+
 
 <a href="#index">Back to Index</a>
 <hr>
