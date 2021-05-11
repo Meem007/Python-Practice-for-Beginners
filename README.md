@@ -165,9 +165,9 @@ front3('abc') → 'abcabcabc'
 Given a string and a non-negative int n, return a larger string that is n copies of the original string.
 
 
-stringTimes("Hi", 2) → "HiHi" <br>
-stringTimes("Hi", 3) → "HiHiHi"<br>
-stringTimes("Hi", 1) → "Hi"
+string_times("Hi", 2) → "HiHi" <br>
+string_times("Hi", 3) → "HiHiHi"<br>
+string_times("Hi", 1) → "Hi"
 
 <a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/solutions/Exercise_N_13.ipynb'>solution</a>
 
