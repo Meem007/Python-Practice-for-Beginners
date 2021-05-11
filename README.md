@@ -246,6 +246,18 @@ array123([1, 1, 2, 1, 2, 3]) → True
 
 <a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/solutions/Exercise_N_20.ipynb'>solution</a>
 
+<h3> Exercise 21: String Matching</h3>
+
+Given 2 strings, a and b, return the number of the positions where they contain the same length 2 substring. So "xxcaazz" and "xxbaaz" yields 3, since the "xx", "aa", and "az" substrings appear in the same place in both strings.
+
+
+string_match('xxcaazz', 'xxbaaz') → 3<br>
+string_match('abc', 'abc') → 2<br>
+string_match('abc', 'axc') → 0
+
+<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/solutions/Exercise_N_21.ipynb'>solution</a>
+
+
 <a href="#index">Back to Index</a>
 <hr>
 
