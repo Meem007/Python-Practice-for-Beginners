@@ -201,8 +201,18 @@ string_splosion('Code') → 'CCoCodCode'<br>
 string_splosion('abc') → 'aababc'<br>
 string_splosion('ab') → 'aab'
 
-<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/solutions/Exercise_N_15.ipynb'>solution</a>
+<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/solutions/Exercise_N_16.ipynb'>solution</a>
 
+<h3> Exercise 17: String Number</h3>
+
+Given a string, return the count of the number of times that a substring length 2 appears in the string and also as the last 2 chars of the string, so "hixxxhi" yields 1 (we won't count the end substring).
+
+
+last2('hixxhi') → 1<br>
+last2('xaxxaxaxx') → 1<br>
+last2('axxxaaxx') → 2
+
+<a target="_blank" href='https://github.com/Meem007/Python-Practice-for-Beginners/blob/main/solutions/Exercise_N_17.ipynb'>solution</a>
 
 <a href="#index">Back to Index</a>
 <hr>
